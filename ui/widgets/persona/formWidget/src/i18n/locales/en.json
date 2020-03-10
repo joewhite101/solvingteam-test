@@ -1,0 +1,26 @@
+{
+  "error": {
+    "dataLoading": "Error during server connection"
+  },
+  "common": {
+    "save": "Save",
+    "dataSaved": "Data successfully saved",
+    "notAuthenticated": "User is not authenticated.",
+    "selectFile": "Upload new file",
+    "selectImageFile": "Upload new image",
+    "download": "Download"
+  },
+  "validation": {
+    "required": "{{field}} is required"
+  },
+  "entities": {
+    "persona": {
+      "id": "ID",
+      "nome": "entities.persona.nome",
+      "cognome": "entities.persona.cognome",
+      "codiceFiscale": "entities.persona.codiceFiscale",
+      "indirizzo": "entities.persona.indirizzo",
+      "numeroConsolato": "entities.persona.numeroConsolato"
+    }
+  }
+}

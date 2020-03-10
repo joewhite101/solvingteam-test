@@ -1,0 +1,6 @@
+code: city-table-widget
+titles:
+  en: City Table Widget
+  it: City Table Widget
+group: free
+customUiPath: city-table-widget.ftl

@@ -1,0 +1,29 @@
+apiVersion: entando.org/v1
+kind: EntandoDeBundle
+metadata:
+  name: solvingteam-bundle
+  namespace: solving-team
+spec:
+  details:
+    name: solvingteam-bundle
+    description: >-
+      A bundle for entando digital-exchange built with JHipster Entando
+      Blueprint
+    dist-tags:
+      latest: 1.0.0
+    time:
+      created: '2020-03-10T09:26:01.865Z'
+      modified: '2020-03-10T09:26:01.865Z'
+      1.0.0: '2020-03-10T09:26:01.865Z'
+    versions:
+      - 1.0.0
+    keywords:
+      - entando6
+      - digital-exchange
+  tags:
+    - version: 1.0.0
+      integrity: >-
+        sha512-AtPndMtfZ/Ldhx8Rh03SATxcy2VyaJDzxyKv9beQck3a8la8Zaw1AJoD/yetO+MYz6UAlpnBX2Yk2CfOiUPXVw==
+      shasum: 0e8b609aec8ee55cc2709bdcd6eafa32140892bc
+      tarball: >-
+        http://nexus.lab.entando.org/repository/npm-entando-demo/solvingteam-bundle/-/solvingteam-bundle-1.0.0.tgz

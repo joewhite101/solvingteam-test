@@ -1,0 +1,6 @@
+code: persona-details-widget
+titles:
+    en: Persona Details Widget
+    it: Persona Details Widget
+group: free
+customUiPath: persona-details-widget.ftl

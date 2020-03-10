@@ -1,0 +1,22 @@
+{
+  "common": {
+    "couldNotFetchData": "Unfortunately we could not fetch entity data",
+    "widgetName": "Details about '{{widgetNamePlaceholder}}'",
+    "name": "Name",
+    "value": "Value",
+    "loading": "Loading...",
+    "missingId": "Please provide persona ID",
+    "notAuthenticated": "User is not authenticated.",
+    "download": "Download file"
+  },
+  "entities": {
+    "persona": {
+      "id": "ID",
+      "nome": "entities.persona.nome",
+      "cognome": "entities.persona.cognome",
+      "codiceFiscale": "entities.persona.codiceFiscale",
+      "indirizzo": "entities.persona.indirizzo",
+      "numeroConsolato": "entities.persona.numeroConsolato"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+code: nazione-form-widget
+titles:
+    en: Nazione Table Widget
+    it: Nazione Table Widget
+group: free
+customUiPath: nazione-form-widget.ftl

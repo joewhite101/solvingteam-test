@@ -1,0 +1,6 @@
+code: city-form-widget
+titles:
+    en: City Table Widget
+    it: City Table Widget
+group: free
+customUiPath: city-form-widget.ftl

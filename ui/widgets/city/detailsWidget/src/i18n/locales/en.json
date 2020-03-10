@@ -1,0 +1,19 @@
+{
+  "common": {
+    "couldNotFetchData": "Unfortunately we could not fetch entity data",
+    "widgetName": "Details about '{{widgetNamePlaceholder}}'",
+    "name": "Name",
+    "value": "Value",
+    "loading": "Loading...",
+    "missingId": "Please provide city ID",
+    "notAuthenticated": "User is not authenticated.",
+    "download": "Download file"
+  },
+  "entities": {
+    "city": {
+      "id": "ID",
+      "name": "entities.city.name",
+      "descrizione": "entities.city.descrizione"
+    }
+  }
+}

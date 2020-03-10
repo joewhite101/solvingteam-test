@@ -1,4 +1,4 @@
-code: solvingteam-bundle 
+code: solvingteam-bundle
 description: This is the solvingTeam bundle
 
 components:
@@ -6,7 +6,16 @@ components:
     - plugins/solvingteam-plugin.yaml
 
   widgets:
-# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+    - ui/widgets/persona/tableWidget/persona-table-widget-descriptor.yaml
+    - ui/widgets/persona/detailsWidget/persona-details-widget-descriptor.yaml
+    - ui/widgets/persona/formWidget/persona-form-widget-descriptor.yaml
+    - ui/widgets/nazione/tableWidget/nazione-table-widget-descriptor.yaml
+    - ui/widgets/nazione/detailsWidget/nazione-details-widget-descriptor.yaml
+    - ui/widgets/nazione/formWidget/nazione-form-widget-descriptor.yaml
+    - ui/widgets/city/tableWidget/city-table-widget-descriptor.yaml
+    - ui/widgets/city/detailsWidget/city-details-widget-descriptor.yaml
+    - ui/widgets/city/formWidget/city-form-widget-descriptor.yaml
+  # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
 
   pageModels:
 

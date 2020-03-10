@@ -1,0 +1,6 @@
+code: nazione-details-widget
+titles:
+    en: Nazione Details Widget
+    it: Nazione Details Widget
+group: free
+customUiPath: nazione-details-widget.ftl

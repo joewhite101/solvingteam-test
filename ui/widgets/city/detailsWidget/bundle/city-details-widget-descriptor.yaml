@@ -1,0 +1,6 @@
+code: city-details-widget
+titles:
+    en: City Details Widget
+    it: City Details Widget
+group: free
+customUiPath: city-details-widget.ftl

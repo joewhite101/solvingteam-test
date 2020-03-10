@@ -1,0 +1,6 @@
+code: persona-form-widget
+titles:
+    en: Persona Table Widget
+    it: Persona Table Widget
+group: free
+customUiPath: persona-form-widget.ftl

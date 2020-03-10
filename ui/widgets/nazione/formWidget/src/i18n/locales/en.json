@@ -1,0 +1,23 @@
+{
+  "error": {
+    "dataLoading": "Error during server connection"
+  },
+  "common": {
+    "save": "Save",
+    "dataSaved": "Data successfully saved",
+    "notAuthenticated": "User is not authenticated.",
+    "selectFile": "Upload new file",
+    "selectImageFile": "Upload new image",
+    "download": "Download"
+  },
+  "validation": {
+    "required": "{{field}} is required"
+  },
+  "entities": {
+    "nazione": {
+      "id": "ID",
+      "name": "entities.nazione.name",
+      "descrizione": "entities.nazione.descrizione"
+    }
+  }
+}
