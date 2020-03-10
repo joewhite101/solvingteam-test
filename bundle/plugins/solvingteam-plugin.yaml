@@ -1,0 +1,18 @@
+kind: "EntandoPlugin"
+apiVersion: "entando.org/v1alpha1"
+metadata:
+  name: "solvingteam-plugin"
+spec:
+  image: entando/solving-team:0.0.1-SNAPSHOT
+  replicas: 1
+  dbms: mysql
+  parameters: {}
+  ingressPath: "/solvingTeam"
+  healthCheckPath: "/management/health"
+  securityLevel: "strict"
+  connectionConfigNames: []
+  permissions: []
+  roles:
+  - name: solvingTeam-admin
+    code: solvingTeam-admin
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here

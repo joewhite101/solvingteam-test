@@ -1,0 +1,15 @@
+code: solvingteam-bundle 
+description: This is the solvingTeam bundle
+
+components:
+  plugins:
+    - plugins/solvingteam-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
+  pageModels:
+
+  contentTypes:
+
+  contentModels:
